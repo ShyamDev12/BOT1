@@ -1,2 +1,5 @@
 ![PS](https://github.com/ShyamDev12/BOT1/blob/main/pn1.png)
 ![SOLUTION](https://github.com/ShyamDev12/BOT1/blob/main/pn2.png)
+![MODULE](https://github.com/ShyamDev12/BOT1/blob/main/pn4.png)
+![M](https://github.com/ShyamDev12/BOT1/blob/main/pn5.png)
+![M](https://github.com/ShyamDev12/BOT1/blob/main/pn6.png)
